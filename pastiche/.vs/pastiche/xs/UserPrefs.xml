@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{5293F80E-3E61-5099-11F5-F8BA9DD543A2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/controlsDialog.cs">
+    <Files>
+      <File FileName="Assets/Gem.cs" Line="20" Column="6" />
+      <File FileName="Assets/CameraFollow.cs" Line="22" Column="1" />
+      <File FileName="Assets/healStar.cs" Line="20" Column="23" />
+      <File FileName="Assets/lightTorch.cs" Line="27" Column="43" />
+      <File FileName="Assets/dialogScript.cs" Line="36" Column="1" />
+      <File FileName="Assets/PlayerScript.cs" Line="35" Column="24" />
+      <File FileName="Assets/InputManager.cs" Line="98" Column="1" />
+      <File FileName="Assets/controlsDialog.cs" Line="25" Column="23" />
+      <File FileName="Assets/shroomSignText.cs" Line="21" Column="33" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
